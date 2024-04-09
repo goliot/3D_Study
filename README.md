@@ -7,8 +7,8 @@
 - 벽을 통과하던 버그 수정
 ```c#
 isBorder = Physics.Raycast(transform.position, transform.forward, 5, LayerMask.GetMask("Wall"));
+//레이캐스트를 쏴서 벽 근처에 있으면 움직임을 제한
 ```
-    - 레이캐스트를 쏴서 벽 근처에 있으면 움직임을 제한
 - 적 피격 구현
 - 적 사망시 넉백 구현
 ---
