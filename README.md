@@ -1,5 +1,21 @@
 # 3D_Study
 ---
+# 0415
+- 보스 몬스터 구현
+    - 보스 패턴 3가지
+        - 유도 미사일
+            - navMeshAgent 활용
+        - 돌 굴리기
+        - 점프 공격
+    - 패턴은 스위치문으로 확률 조정
+    - 보스는 플레이어가 바라보는 방향 살짝 앞쪽을 겨냥하도록 구현
+```c++
+float h = Input.GetAxisRaw("Horizontal");
+float v = Input.GetAxisRaw("Vertical");
+lookVec = new Vector3(h, 0, v) * 5f;
+transform.LookAt(target.position + lookVec);
+```
+---
 # 0413
 - 적 3가지 구현
     - 근접
