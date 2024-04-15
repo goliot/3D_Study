@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=WkMM7Uu2AoA&list=PLO-mt5Iu5TeYkrBzWKuTCl6IUm_bA6
         - 점프 공격
     - 패턴은 스위치문으로 확률 조정
     - 보스는 플레이어가 바라보는 방향 살짝 앞쪽을 겨냥하도록 구현
-```c++
+```c#
 float h = Input.GetAxisRaw("Horizontal");
 float v = Input.GetAxisRaw("Vertical");
 lookVec = new Vector3(h, 0, v) * 5f;
