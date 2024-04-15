@@ -1,4 +1,7 @@
 # 3D_Study
+### 골드메탈 3D 기초 강좌 학습
+https://www.youtube.com/watch?v=WkMM7Uu2AoA&list=PLO-mt5Iu5TeYkrBzWKuTCl6IUm_bA6BKy
+
 ---
 # 0415
 - 보스 몬스터 구현
