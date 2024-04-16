@@ -3,6 +3,9 @@
 https://www.youtube.com/watch?v=WkMM7Uu2AoA&list=PLO-mt5Iu5TeYkrBzWKuTCl6IUm_bA6BKy
 
 ---
+# 0416
+- UI 틀 배치
+---
 # 0415
 - 보스 몬스터 구현
     - 보스 패턴 3가지
