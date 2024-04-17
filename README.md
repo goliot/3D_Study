@@ -1,7 +1,10 @@
 # 3D_Study
 ### 골드메탈 3D 기초 강좌 학습
 https://www.youtube.com/watch?v=WkMM7Uu2AoA&list=PLO-mt5Iu5TeYkrBzWKuTCl6IUm_bA6BKy
-
+---
+# 0417
+- 인게임 상점 구현
+- 상점 UI 구현
 ---
 # 0416
 - UI 틀 배치
