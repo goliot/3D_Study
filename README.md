@@ -2,6 +2,11 @@
 ### 골드메탈 3D 기초 강좌 학습
 https://www.youtube.com/watch?v=WkMM7Uu2AoA&list=PLO-mt5Iu5TeYkrBzWKuTCl6IUm_bA6BKy
 ---
+# 0418
+- 메뉴 화면 구성
+    - 메인 메뉴 전용 카메라 무빙
+- UI 컨트롤 스크립트 작성
+---
 # 0417
 - 인게임 상점 구현
 - 상점 UI 구현
