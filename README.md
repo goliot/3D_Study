@@ -2,6 +2,13 @@
 ### 골드메탈 3D 기초 강좌 학습
 https://www.youtube.com/watch?v=WkMM7Uu2AoA&list=PLO-mt5Iu5TeYkrBzWKuTCl6IUm_bA6BKy
 ---
+# 0419
+- 게임 완성
+    - 몬스터 소환로직
+    - 보스 몬스터 소환 로직
+    - 게임 클리어 로직
+    - 게임 오버 로직
+---
 # 0418
 - 메뉴 화면 구성
     - 메인 메뉴 전용 카메라 무빙
